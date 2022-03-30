@@ -1,12 +1,21 @@
-### Hi 👋
+Hi 👋
+===========
+
+Welcome to my profile! 
 
 
-### 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manami-bunbun&count_private=true&show_icons=true&bg_color=30,ddd6f3,faaca8&title_color=fff&text_color=fff&icon_color=faaca8)](https://github.com/anuraghazra/github-readme-stats)
+Github Stats　📈
+-------------------------------
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manami-bunbun&count_private=true&show_icons=true&bg_color=30,ddd6f3,faaca8&title_color=fff&text_color=fff&icon_color=faaca8&hide_title=true")](https://github.com/anuraghazra/github-readme-stats)
 
 
+
+
+Trophy　🏆
+-------------------------------
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=manami-bunbun&rank=AA,C&theme=&theme=flat&no-frame=true&margin-w=15&margin-h=30")](https://github.com/ryo-ma/github-profile-trophy)
 
