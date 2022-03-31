@@ -3,6 +3,7 @@ Hi 👋
 
 Welcome to my profile! 
 
+![Gif](https://media.giphy.com/media/gKUn6roMW20Ni/giphy.gif)
 
 
 
