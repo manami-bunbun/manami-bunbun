@@ -1,23 +1,5 @@
 Hi 👋
 ===========
-# Release Checklist
-
-This checklist must be submitted by each group for each release.
-
-Release Name: Final
- 
-Date: 5 May 2022
-
-Microsoft Stream Screencast URL:
-
-## Checks
-- [x] 3 named User Stories implemented
-- [x] Test cases successfully passed
-- [x] System deployed, accessible to the client 
-- [x] Client successfully interacted with system
-
-## Notes
-We emailed about Ethics approval. 
 
 Welcome to my profile! 
 
