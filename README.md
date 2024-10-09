@@ -6,7 +6,8 @@ I'm Manami. I mainly do research in HCI.
 This is my [personal website](https://manami-bunbun.github.io/).
 
 
-I am currently in my final year of a BSc in Computer Science at University of Bristol, and will be attending a PhD in Computer Science at UC Davis this fall.
+I am a PhD student at University of California, Davis.
+I study Computer Science, and my research field is Human Computer Interaction.
 
 
 <!-- ![Gif](https://media.giphy.com/media/gKUn6roMW20Ni/giphy.gif) -->
