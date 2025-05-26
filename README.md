@@ -1,7 +1,7 @@
 Hi 👋
 ===========
 
-I'm Manami. I mainly do research in HCI.
+I'm Manami. 
 
 This is my [personal website](https://manami-bunbun.github.io/).
 
