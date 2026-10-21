@@ -6,7 +6,7 @@ I'm Manami.
 This is my [personal website](https://manami-bunbun.github.io/).
 
 
-I am a PhD student at University of California, Davis.
+I am a PhD student at University of California, Santa Barbara.
 I study Computer Science, and my research field is Human Computer Interaction.
 
 
